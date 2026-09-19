@@ -2,7 +2,7 @@
 
 # 账号星球（Accountboy）商品与价格：海外账号、流媒体和 AI 服务
 
-[完整详情与最新价格](https://eoht.net/serve/sharing/acc) · [账号合租与数字账号仓库汇总](https://github.com/gh-theo/sharing-summary)
+[完整详情与最新价格](https://eoht.net/serve/sharing/acc) · [账号合租与数字账号仓库汇总](https://github.com/jcsift/sharing-summary)
 
 ![账号星球](https://i.eoht.net/docs/acc_og.webp '账号星球 - 全球数字账号购买平台')
 
